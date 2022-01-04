@@ -5,20 +5,20 @@
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+Bot+repo;Created+by+Albin+Manoj;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALBIN TKO" src="https://img.shields.io/badge/Samantha-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Samantha-a/Pikachu"><img title="SAMANTHA" src="https://img.shields.io/badge/Albin-Tko-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Samantha-a/Pikachu">Samanth-a</a> to make it public
     <br>
        | © |
         Reserved |
@@ -70,7 +70,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/Pikachu-Bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/Pikachu.git)
      </div>
 <br>
 <br >
@@ -90,7 +90,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Samantha-a/Pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Samantha-a/Pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
